@@ -1,4 +1,4 @@
-# Pisca Pisca
+# SOS Luminoso
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Arduino-Uno-blue">
