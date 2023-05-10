@@ -1,7 +1,8 @@
 # Curso de Arduino - Basico
 
-Um curso introdutório sobre arduino.
+Vários projetos simples para ministrar cursos de Arduino.
 
 ## Lista de projetos
 
 - [Projeto 1 - Pisca Pisca](/Projeto1/README.md)
+- [Projeto 2 - SOS Luminoso](/Projeto2/README.md)

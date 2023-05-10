@@ -29,15 +29,17 @@ Com a programação correta, é possível ligar e desligar a energia do pino 11,
 
 ![montageExample](img/im2.png)
 
-## Programação em blocos para PictoBlox
+## Programação
+
+### Para PictoBlox
 
 A programação de blocos pode ser vista na figura a baixo. Monde no programa PictoBlox e teste seu funcionamento.
 
 ![montageExample](PictoBlox/pb.png)
 
-## Código de programação
+### Para ArduinoIDE
 
-O código para programação na interface ArdunoIDE pode ser encotnrado [aqui](/Projeto1/ArduinoIDE/PiscaPisca.cpp).
+O código para programação na interface ArdunoIDE pode ser encotnrado [aqui](ArduinoIDE/ArduinoIDE.cpp).
 
 ## Possíveis erros
 
@@ -55,4 +57,4 @@ Caso o projeto não funcione, verifique alguns dos possíveis erros:
 
 - Troque o LED por outro de cor diferente;
 - Monte o circuito de uma maneira alternativa usando outros furos e posições na protoboard;
-- Mude o intervalo de tempo que o LED pisca mudando o valor nos blocos `espere 1 seg` para `espere 0.25 seg` ou se estiver utilizando o ArduinoIDE mude a programação na linha `delay(1000);` por exemplo: `delay(250);`.
+- Mude o intervalo de tempo que o LED pisca mudando o valor nos blocos `espere (1) seg` para `espere (0.25) seg` ou se estiver utilizando o ArduinoIDE mude a programação na linha `delay(1000);` para `delay(250);`.
