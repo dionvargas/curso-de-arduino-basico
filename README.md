@@ -8,3 +8,4 @@ Vários projetos simples para ministrar cursos de Arduino.
 - [Projeto 2 - SOS Luminoso](/Projeto2/README.md)
 - [Projeto 3 - Brilho Oscilante](/Projeto3/README.md)
 - [Projeto 4 - Semáforo](/Projeto4/README.md)
+- [Projeto 5 - Semáforo](/Projeto5/README.md)
