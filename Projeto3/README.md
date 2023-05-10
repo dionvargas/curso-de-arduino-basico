@@ -52,4 +52,4 @@ Veja abaixo alguns desafios que você pode tentar!
 
 - Troque o LED por outro de cor diferente;
 - Monte o circuito de uma maneira alternativa usando outros furos e posições na protoboard;
-- Mude o intervalo de tempo que o LED pisca mudando o valor na programação na linha `delay(30);` por exemplo: `delay(350);` se estiver usando o ArduinoIDE ou altere os blocos `espere (0.03) seg` para `espere (o.350) seg` se estiver usando o PictoBlox.
+- Mude o intervalo de tempo que o LED pisca mudando o valor na programação na linha `delay(30);` para `delay(350);` se estiver usando o ArduinoIDE ou altere os blocos `espere (0.03) seg` para `espere (0.350) seg` se estiver usando o PictoBlox.
