@@ -57,4 +57,5 @@ Caso o projeto não funcione, verifique alguns dos possíveis erros:
 
 - Troque o LED por outro de cor diferente;
 - Monte o circuito de uma maneira alternativa usando outros furos e posições na protoboard;
-- Mude o intervalo de tempo que o LED pisca mudando o valor nos blocos `espere (1) seg` para `espere (0.25) seg` ou se estiver utilizando o ArduinoIDE mude a programação na linha `delay(1000);` para `delay(250);`.
+- Mude o intervalo de tempo que o LED pisca mudando o valor nos blocos `espere (1) seg` para `espere (0.25) seg` ou se estiver utilizando o ArduinoIDE mude a programação na linha `delay(1000);` para `delay(250);`;
+- Monde mais um LED no pino 12 do Arduino. Altere a programação para que enquanto um LED esteja ligado o outro esteja apagado.
