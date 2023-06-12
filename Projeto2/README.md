@@ -50,7 +50,12 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 - Verifique se o LED não está conectado invertido, ou seja, terminal negativo no pino 11 e positivo no pino GND;
 - Verifique se o código carregou na placa através do PictoBlox ou do ArduinoIDE.
 
+## Formulário da Turma 602
+
+[Clique aqui](https://docs.google.com/forms/d/1mtS6ED_8T9CttlAT9PomXdGHlyvFpuzrv59pMLOi0vc){target="_blank"}
+
 ## Desafios
 
 - Troque o LED por outro de cor diferente;
-- Monte o circuito de uma maneira alternativa usando outros furos e posições na protoboard.
+- Monte o circuito de uma maneira alternativa usando outros furos e posições na protoboard;
+- Faça com que o LED pisque apresentando a palavra MAKER em código mórse.

@@ -53,6 +53,10 @@ Caso o projeto não funcione, verifique alguns dos possíveis erros:
 - Verifique se o LED não está conectado invertido ou seja, terminal negativo no pino 11 e positivo no pino GND;
 - Verifique se o código carregou na placa através do PictoBlox ou do ArduinoIDE.
 
+## Formulário da Turma 602
+
+[Clique aqui](https://docs.google.com/forms/d/1a8yNkQVsaS2nQQARDBBkOG1ldTplqN8msomxHJ34bE4){target="_blank"}
+
 ## Desafios
 
 - Troque o LED por outro de cor diferente;
