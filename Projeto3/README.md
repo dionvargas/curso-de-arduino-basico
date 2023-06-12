@@ -27,16 +27,17 @@ Neste projeto continuaremos com o mesmo circuito dos projetos [Projeto Pisca Pis
 
 ### Para PictoBlox
 
-A programação de blocos pode ser vista na figura a baixo.
 Neste código é criada duas funções. Uma para acender o LED e outra para apagar gradativamente. Funções são usadas frequentemente para separar um código que poderá ser chamado em qualquer outra parte do programa.
-
+&nbsp;
+A programação de blocos pode ser vista na figura a baixo.
+&nbsp;
 ![montageExample](PictoBlox/pb2.png)
+&nbsp;
 ![montageExample](PictoBlox/pb3.png)
-
+&nbsp;
 A função principal do programa apenas chama as duas funções criadas nos blocos anteriores.
+&nbsp;
 ![montageExample](PictoBlox/pb.png)
-
-
 
 ### Para ArduinoIDE
 
@@ -53,7 +54,7 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 
 ## Formulário da Turma 602
 
-[Clique aqui](https://forms.gle/5k6zvMz8xVv2R8uV9){target="_blank"}
+[Clique aqui](https://forms.gle/5k6zvMz8xVv2R8uV9)
 
 ## Desafios
 

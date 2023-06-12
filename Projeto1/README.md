@@ -55,7 +55,7 @@ Caso o projeto não funcione, verifique alguns dos possíveis erros:
 
 ## Formulário da Turma 602
 
-[Clique aqui](https://docs.google.com/forms/d/1a8yNkQVsaS2nQQARDBBkOG1ldTplqN8msomxHJ34bE4){target="_blank"}
+[Clique aqui](https://docs.google.com/forms/d/1a8yNkQVsaS2nQQARDBBkOG1ldTplqN8msomxHJ34bE4)
 
 ## Desafios
 
