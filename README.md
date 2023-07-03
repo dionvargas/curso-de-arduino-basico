@@ -1,8 +1,22 @@
 # Curso de Arduino - Basico
 
-Vários projetos simples para ministrar cursos de Arduino.
+O Arduino é uma plataforma de prototipagem eletrônica de código aberto que tem revolucionado o mundo da tecnologia e da automação. Desde sua criação em 2005, por Massimo Banzi e sua equipe, o Arduino tem se tornado cada vez mais popular entre os entusiastas e profissionais de eletrônica.
+
+O coração do Arduino é um microcontrolador, geralmente da família Atmel AVR, que pode ser programado para executar uma variedade de tarefas. Ele vem com uma placa de circuito impresso que possui uma série de pinos de entrada e saída, permitindo a conexão de sensores, atuadores e outros componentes eletrônicos.
+
+Uma das principais características do Arduino é sua facilidade de uso. Mesmo pessoas sem experiência prévia em eletrônica ou programação podem começar a criar projetos interessantes em pouco tempo. A linguagem de programação utilizada no Arduino é baseada em Wiring, que é uma simplificação da linguagem C++.
+
+Com o Arduino, é possível criar uma infinidade de projetos. Desde um simples sistema de iluminação controlado por sensor de luz até um robô complexo com sensores de movimento, o limite é a imaginação. Além disso, existem várias placas Arduino disponíveis, cada uma com suas próprias características e funcionalidades, o que permite escolher a que melhor se adequa às necessidades de cada projeto.
+
+Outro aspecto interessante do Arduino é sua comunidade ativa e colaborativa. Existem fóruns online, tutoriais e projetos compartilhados que ajudam os usuários a superar desafios e obter inspiração para suas criações. Essa comunidade também contribui para o desenvolvimento contínuo do Arduino, com o lançamento de novas versões e expansões.
+
+O Arduino tem sido utilizado em uma variedade de aplicações, desde a automação residencial até projetos de robótica, controle de dispositivos, arte interativa e muito mais. Sua versatilidade e acessibilidade o tornam uma escolha popular para estudantes, hobistas e profissionais que desejam experimentar e explorar o mundo da eletrônica.
+
+Em resumo, o Arduino é uma plataforma poderosa e acessível que permite a qualquer pessoa criar seus próprios projetos eletrônicos. Com seu hardware flexível e sua comunidade ativa, o Arduino continua a inspirar e capacitar pessoas ao redor do mundo a transformar suas ideias em realidade.
 
 ## Lista de projetos
+
+A seguir uma lista de projetos para ministrar cursos de Arduino:
 
 - [Projeto 1 - Pisca Pisca](/Projeto1/README.md)
 - [Projeto 2 - SOS Luminoso](/Projeto2/README.md)
