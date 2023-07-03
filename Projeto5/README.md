@@ -30,7 +30,7 @@ A chave táctil push button deve ser montada com dois terminais acima da cavidad
 
 A programação de blocos pode ser vista na figura a baixo.
 
-![montageExample](PictoBlox/pb.png)
+![montageExample](PictoBlox/main.png)
 
 ### Para ArduinoIDE
 

@@ -35,7 +35,7 @@ A maioria das pessoas, mesmo makers experientes, tem que voltar para esta parte 
 
 A programação de blocos pode ser vista na figura a baixo.
 
-![montageExample](PictoBlox/pb.png)
+![montageExample](PictoBlox/main.png)
 
 ### Para ArduinoIDE
 
