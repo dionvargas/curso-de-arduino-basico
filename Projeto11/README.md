@@ -34,10 +34,6 @@ A programação de blocos pode ser vista na figura a baixo.
 
 Não esqueça de criar os métodos antes de programar a função principal.
 
-![acendeAzul](PictoBlox/acendeAzul.png)
-![acendeVermelho](PictoBlox/acendeVermelho.png)
-![acendeVerde](PictoBlox/acendeVerde.png)
-![apagaLed](PictoBlox/apagaLed.png)
 ![main](PictoBlox/main.png)
 
 ### Para ArduinoIDE
