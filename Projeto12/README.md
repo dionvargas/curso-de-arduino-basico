@@ -67,4 +67,6 @@ Caso o projeto não funcione, verifique alguns dos possíveis erros:
 
 Veja abaixo alguns desafios que você pode tentar!
 
+- Altere para que o buzzer toque em um outro tom;
+- Modifique a programação para acionar um alarme intermitente;
 - Modifique a programação para realizar o inverso do objetivo proposto. Laser apontado para o LDR aciona o buzzer.
