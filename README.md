@@ -33,3 +33,6 @@ A seguir uma lista de projetos para ministrar cursos de Arduino:
 - [Projeto 13 - Alarme de movimento](/Projeto13/README.md)
 - [Projeto 14 - Contador Digital](/Projeto14/README.md)
 - [Projeto 15 - Dado Eletrônico](/Projeto15/README.md)
+- [Projeto 16 - Matriz de LEDs 8x8](/Projeto16/README.md)
+- [Projeto 17 - Display 16x2](/Projeto17/README.md)
+- [Projeto 18 - Sensor Ultrasônico](/Projeto18/README.md)
