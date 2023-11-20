@@ -49,10 +49,6 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 - Verifique se os pinos do potenciômetro estão bem inseridos na protoboard;
 - Verifique se o código carregou na placa através da IDE Arduino.
 
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/4mMvR9zjSB166SXn7)
-
 ## Desafios
 
 Veja abaixo alguns desafios que você pode tentar!

@@ -59,10 +59,6 @@ Caso o projeto não funcione, verifique alguns dos possíveis erros:
 
 [Clique aqui](https://www.tinkercad.com/things/hMgOrhzTQK2-sizzling-habbi-vihelmo/editel?sharecode=BwEb_tGFlZbPMNaDdoZwBle76vmzfCx_cePUzpRlWuk)
 
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/h9rwzn2p4KDrPyCv7)
-
 ## Desafios
 
 Veja abaixo alguns desafios que você pode tentar!

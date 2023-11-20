@@ -53,10 +53,6 @@ Caso o projeto não funcione, verifique alguns dos possíveis erros:
 
 [Clique aqui](https://www.tinkercad.com/things/jFERTptmmDp-incredible-curcan-jaiks/editel?tenant=circuits)
 
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/HGuQnTQZvUKg2xoQ8)
-
 ## Desafios
 
 Veja abaixo alguns desafios que você pode tentar!

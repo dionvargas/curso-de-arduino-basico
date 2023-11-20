@@ -21,7 +21,7 @@ Este projeto mostra que, através da programação, podemos piscar o LED de dife
 
 ## Montagem do circuito
 
-Nesse projeto vamos utilizar o mesmo circuito do [Projeto Pisca Pisca](/Projeto1/README.md).
+Nesse projeto vamos utilizar o mesmo circuito do [Projeto Pisca Pisca](/Projeto01/README.md).
 
 ![montageExample](img/im2.png)
 
@@ -49,10 +49,6 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 - Verifique se os jumpers estão ligados nos pinos corretos no Arduino;
 - Verifique se o LED não está conectado invertido, ou seja, terminal negativo no pino 11 e positivo no pino GND;
 - Verifique se o código carregou na placa através do PictoBlox ou do ArduinoIDE.
-
-## Formulário da Turma 602
-
-[Clique aqui](https://docs.google.com/forms/d/1mtS6ED_8T9CttlAT9PomXdGHlyvFpuzrv59pMLOi0vc)
 
 ## Desafios
 

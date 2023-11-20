@@ -57,10 +57,6 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 - Verifique se os jumpers estão ligados nos pinos corretos no Arduino;
 - Verifique se o terminal positivo do LED RGB está na posição correta ligado ao 5V do Arduino;
 
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/ijyDDYn7c1J216LQ9)
-
 ## Desafios
 
 Veja abaixo alguns desafios que você pode tentar!

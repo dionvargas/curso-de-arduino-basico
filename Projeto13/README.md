@@ -50,10 +50,6 @@ Caso o projeto não funcione, verifique alguns dos possíveis erros:
 - Verifique se o potenciômetro do sensor de vibração foi ajustado conforme instrução da montagem;
 - Verifique se o código carregou na placa através da IDE Arduino.
 
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/1isnz5EuoLqZgf9F6)
-
 ## Desafios
 
 Veja abaixo alguns desafios que você pode tentar!

@@ -47,16 +47,13 @@ O código para programação na interface ArdunoIDE pode ser encontrado [aqui](A
 ## Possíveis erros
 
 Caso o projeto não funcione verifique alguns dos possíveis erros:
+
 - Verifique se os jumpers estão na mesma coluna dos terminais dos componentes, fazendo assim a
-conexão;
+  conexão;
 - Verifique se os jumpers estão ligados nos pinos corretos no Arduino;
 - Verifique se o terminal positivo do LED RGB está na posição correta, ligado ao 5 V do Arduino;
 - Verifique se os pinos do potenciômetro estão totalmente inseridos nos furos da protoboard;
 - Verifique se o código carregou na placa através da IDE Arduino.
-
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/hQsGkHoszc29zHfo7)
 
 ## Desafios
 

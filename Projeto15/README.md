@@ -62,10 +62,6 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 
 [Clique aqui](https://www.tinkercad.com/things/8VBFf7Yf9Kq-15-dado-eletronico/editel?sharecode=QyuijxV6vjzBdOPw_U1rTziJmOd5PtTdCHIi2irN0cI)
 
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/1T2pgcWuo85q3TjL9)
-
 ## Desafios
 
 Veja abaixo alguns desafios que você pode tentar!

@@ -50,10 +50,6 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 - Verifique se o LED não está conectado invertido;
 - Verifique se o código carregou na placa através do PictoBlox ou do ArduinoIDE.
 
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/EvUaxhfVKqX5SwA18)
-
 ## Desafios
 
 Veja abaixo alguns desafios que você pode tentar!

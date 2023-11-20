@@ -19,7 +19,7 @@ Nos projetos anteriores vimos como ligar e desligar o nosso LED. Mas e se quisé
 
 ## Montagem do circuito
 
-Neste projeto continuaremos com o mesmo circuito dos projetos [Projeto Pisca Pisca](/Projeto1/README.md) e [SOS Luminoso](/Projeto2/README.md).
+Neste projeto continuaremos com o mesmo circuito dos projetos [Projeto Pisca Pisca](/Projeto01/README.md) e [SOS Luminoso](/Projeto02/README.md).
 
 ![montageExample](img/im2.png)
 
@@ -27,15 +27,15 @@ Neste projeto continuaremos com o mesmo circuito dos projetos [Projeto Pisca Pis
 
 ### Para PictoBlox
 
-Neste código é criada duas funções. Uma para acender o LED e outra para apagar gradativamente. Funções são usadas frequentemente para separar um código que poderá ser chamado em qualquer outra parte do programa.  
+Neste código é criada duas funções. Uma para acender o LED e outra para apagar gradativamente. Funções são usadas frequentemente para separar um código que poderá ser chamado em qualquer outra parte do programa.
 
-A programação de blocos pode ser vista na figura a baixo.  
+A programação de blocos pode ser vista na figura a baixo.
 
-![montageExample](PictoBlox/pb2.png)  
+![montageExample](PictoBlox/pb2.png)
 
-![montageExample](PictoBlox/pb3.png)  
+![montageExample](PictoBlox/pb3.png)
 
-A função principal do programa apenas chama as duas funções criadas nos blocos anteriores.  
+A função principal do programa apenas chama as duas funções criadas nos blocos anteriores.
 
 ![montageExample](PictoBlox/pb.png)
 
@@ -51,10 +51,6 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 - Verifique se os jumpers estão ligados nos pinos corretos no Arduino;
 - Verifique se o LED não está conectado invertido, ou seja, terminal negativo no pino 11 e positivo no pino GND;
 - Verifique se o código carregou na placa através do PictoBlox ou do ArduinoIDE.
-
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/5k6zvMz8xVv2R8uV9)
 
 ## Desafios
 

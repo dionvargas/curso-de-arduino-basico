@@ -51,10 +51,6 @@ Não esqueça de criar os métodos antes de programar a função principal.
 ![acende9](PictoBlox/acende9.png)
 ![main](PictoBlox/main.png)
 
-## Simulação no TinkerCad
-
-[Clique aqui](https://www.tinkercad.com/things/07riAy2WCXb-neat-uusam-jofo/editel?sharecode=L1E8_3itbHKKFieqsK_Or2liVjPFBV2keDfPsqTc-eY)
-
 ### Para ArduinoIDE
 
 O código para programação na interface ArdunoIDE pode ser encontrado [aqui](ArduinoIDE/ArduinoIDE.cpp).
@@ -70,9 +66,9 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 - Verifique se os jumpers estão ligados nos pinos corretos no Arduino;
 - Verifique se o código carregou na placa através da IDE Arduino.
 
-## Formulário da Turma 602
+## Simulação no TinkerCad
 
-[Clique aqui](https://forms.gle/iKdNfEuUWjk3SciTA)
+[Clique aqui](https://www.tinkercad.com/things/07riAy2WCXb-neat-uusam-jofo/editel?sharecode=L1E8_3itbHKKFieqsK_Or2liVjPFBV2keDfPsqTc-eY)
 
 ## Desafios
 

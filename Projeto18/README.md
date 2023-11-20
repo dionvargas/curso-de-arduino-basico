@@ -45,6 +45,7 @@ O programa faz com que conforme o potenciômetro é variado, o display vai sendo
 ### Para PictoBlox
 
 A programação de blocos pode ser vista na figura a baixo.
+
 ![main](PictoBlox/leBotao.png)
 ![main](PictoBlox/mudaLed.png)
 ![main](PictoBlox/main.png)
@@ -52,6 +53,10 @@ A programação de blocos pode ser vista na figura a baixo.
 ### Para ArduinoIDE
 
 O código para programação na interface ArdunoIDE pode ser encontrado [aqui](ArduinoIDE/ArduinoIDE.cpp).
+
+## Simulação no TinkerCad
+
+[Clique aqui](https://www.tinkercad.com/things/lioc6V4Adym-copy-of-display-16x2-temperatura-e-luminosidade/editel?tenant=circuits)
 
 ## Possíveis erros
 

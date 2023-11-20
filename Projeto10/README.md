@@ -55,10 +55,6 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 
 [Clique aqui](https://www.tinkercad.com/things/0Y83Xkimgp2-sizzling-elzing/editel?tenant=circuits)
 
-## Formulário da Turma 602
-
-[Clique aqui](https://forms.gle/Ve2gcCt1yGmon1SX6)
-
 ## Desafios
 
 Veja abaixo alguns desafios que você pode tentar!
