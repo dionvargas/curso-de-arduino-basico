@@ -35,5 +35,5 @@ A seguir uma lista de projetos para ministrar cursos de Arduino:
 - [Projeto 15 - Dado Eletrônico](/Projeto15/README.md)
 - [Projeto 16 - Matriz de LEDs 8x8](/Projeto16/README.md)
 - [Projeto 17 - Matriz de LEDs 8x8 com leitura analógica](/Projeto17/README.md)
-- [Projeto 18 - Display 16x2](/Projeto18/README.md)
+- [Projeto 18 - Display 16x2 - Testador de LEDs](/Projeto18/README.md)
 - [Projeto 19 - Display 16x2 com sensor de temperatura](/Projeto19/README.md)
