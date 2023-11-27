@@ -1,19 +1,20 @@
-# Display 16x2 - Testador de LEDs
+# Display 16x2 - Medidor de temperatura e luminosidade
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Arduino-Uno-blue">
 </div>
 
-Neste projeto, vamos explorar como utilizar o display 16x2 em conjunto com um LED e um botão. Vamos criar uma conexão entre o display e uma placa Arduino Uno. Também vamos conectar um LED em uma saída digital e um botão conectado a uma entrada digital do Arduino UNO.
+Neste projeto, vamos explorar como utilizar o display 16x2 em conjunto com um sensor de temperatura e um LDR. Vamos criar uma conexão entre o display e uma placa Arduino Uno.
 
 ## Material Necessário
 
 - 1x Display 16x2
-- 20x Jumper Macho-macho
+- 21x Jumper Macho-macho
 - 1x Potenciômetro
-- 2x Resistor de Resistor 220Ω ou 330Ω
-- 1x LED
-- 1x pushbutton
+- 1x LDR
+- 1x LM35
+- 2x Resistor de 220Ω ou 330Ω
+- 1x Resistor de 1kΩ
 - 1x Cabo USB
 - 1x Placa Arduino Uno
 
@@ -40,14 +41,15 @@ LED (Catodo) ------------------ Resistor 220Ω
 
 ## Programação
 
-O programa faz com que conforme o potenciômetro é variado, o display vai sendo preenchido.
+Conforme a temperatura e a luminosidade varia o display 16x2 será atualizado.
 
 ### Para PictoBlox
 
 A programação de blocos pode ser vistas nas figuras a baixo.
 
-![main](PictoBlox/leBotao.png)
-![main](PictoBlox/mudaLed.png)
+![main](PictoBlox/leTemperatura.png)
+![main](PictoBlox/leLuminosidade.png)
+![main](PictoBlox/atualizaDisplay.png)
 ![main](PictoBlox/main.png)
 
 ### Para ArduinoIDE
@@ -56,7 +58,7 @@ O código para programação na interface ArdunoIDE pode ser encontrado [aqui](A
 
 ## Simulação no TinkerCad
 
-[Clique aqui](https://www.tinkercad.com/things/lioc6V4Adym-copy-of-display-16x2-temperatura-e-luminosidade/editel?tenant=circuits)
+[Clique aqui](https://www.tinkercad.com/things/cOQqalHQLsP-display-16x2-temperatura-e-luminosidade/editel)
 
 ## Possíveis erros
 
@@ -70,4 +72,4 @@ Caso o projeto não funcione verifique alguns dos possíveis erros:
 
 Veja abaixo alguns desafios que você pode tentar!
 
-- Explore outras possibilidades de usar o display, escrevendo outros textos quando o botão for precionado.
+- A temperatura apresentada pelo display está errada. Para que o valor apresentado no display esteja correta, a calcule-o pela equação: $$Temperatura = \frac{leituraAnalogica * 5}{1023}*0,01$$
